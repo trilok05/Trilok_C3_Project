@@ -22,6 +22,7 @@ class OrderServiceTest {
         items.add(item1);
         items.add(item2);
         items.add(item3);
+// adding items
         orderService.setItems(items);
     }
 
